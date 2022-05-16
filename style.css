@@ -1,0 +1,44 @@
+body {
+background: black;
+}
+
+p {
+color: white;
+}
+
+h2 {
+color: red;
+}
+
+a {
+color: yellow;
+}
+
+.violet {
+color: violet;
+}
+fieldset {
+background-color: #242424;
+}
+
+span {
+color: yellow;
+}
+
+.orange {
+color: orange;
+font-size: 13px;
+}
+
+.green {
+color: #45fc03;
+}
+
+button {
+background-color: red;
+border-radius: 8px;
+}
+ 
+* {
+text-size-adjust: none;
+}
